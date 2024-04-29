@@ -1,0 +1,11 @@
+[SERVICE]
+port="8080"
+
+
+[DATABASE]
+engine="mysql"
+server="localhost"
+username="root"
+password="password"
+port="5432"
+schema="userdb"
